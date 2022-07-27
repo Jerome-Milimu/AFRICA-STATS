@@ -1,0 +1,208 @@
+country,region,year,lifeExp,pop,gdpPercap
+Kenya,East,1950,42,6.1,1038
+Kenya,East,1951,42,6.2,1229
+Kenya,East,1952,42,6.4,1063
+Kenya,East,1953,43,6.6,1009
+Kenya,East,1954,43,6.8,1095
+Kenya,East,1955,44,7,1144
+Kenya,East,1956,44,7.2,1173
+Kenya,East,1957,45,7.4,1176
+Kenya,East,1958,45,7.6,1156
+Kenya,East,1959,46,7.9,1148
+Kenya,East,1960,47,8.1,1157
+Kenya,East,1961,47,8.4,1093
+Kenya,East,1962,48,8.6,1117
+Kenya,East,1963,49,8.9,1138
+Kenya,East,1964,49,9.2,1208
+Kenya,East,1965,50,9.5,1184
+Kenya,East,1966,50,9.9,1294
+Kenya,East,1967,51,10.2,1317
+Kenya,East,1968,51,10.5,1366
+Kenya,East,1969,52,10.9,1404
+Kenya,East,1970,53,11.3,1458
+Kenya,East,1971,53,11.7,1500
+Kenya,East,1972,54,12.1,1524
+Kenya,East,1973,54,12.6,1546
+Kenya,East,1974,55,13.1,1564
+Kenya,East,1975,55,13.6,1502
+Kenya,East,1976,56,14.1,1503
+Kenya,East,1977,56,14.6,1580
+Kenya,East,1978,57,15.2,1656
+Kenya,East,1979,57,15.8,1651
+Kenya,East,1980,58,16.4,1675
+Kenya,East,1981,58,17.1,1647
+Kenya,East,1982,59,17.7,1680
+Kenya,East,1983,59,18.4,1627
+Kenya,East,1984,59,19.1,1594
+Kenya,East,1985,59,19.9,1604
+Kenya,East,1986,59,20.6,1658
+Kenya,East,1987,59,21.4,1698
+Kenya,East,1988,58,22.2,1741
+Kenya,East,1989,58,22.9,1761
+Kenya,East,1990,57,23.7,1780
+Kenya,East,1991,57,24.5,1778
+Kenya,East,1992,56,25.3,1725
+Kenya,East,1993,55,26.1,1698
+Kenya,East,1994,54,27,1730
+Kenya,East,1995,53,27.8,1790
+Kenya,East,1996,53,28.6,1851
+Kenya,East,1997,52,29.4,1846
+Kenya,East,1998,51,30.3,1890
+Kenya,East,1999,51,31.1,1921
+Kenya,East,2000,51,32,1915
+Kenya,East,2001,51,32.8,1972
+Kenya,East,2002,52,33.8,1962
+Kenya,East,2003,52,34.7,1998
+Kenya,East,2004,53,35.6,2066
+Kenya,East,2005,55,36.6,2158
+Kenya,East,2006,56,37.6,2255
+Kenya,East,2007,57,38.7,2381
+Kenya,East,2008,59,39.8,2357
+Kenya,East,2009,60,40.9,2405
+Kenya,East,2010,61,42,2580
+Kenya,East,2011,62,43.2,2712
+Kenya,East,2012,63,44.3,2765
+Kenya,East,2013,63,45.5,2854
+Kenya,East,2014,64,46.7,2942
+Kenya,East,2015,65,47.9,3046
+Kenya,East,2016,65,49.1,3169
+Kenya,East,2017,66,50.2,3250
+Kenya,East,2018,66,51.4,3377
+Nigeria,West,1950,33,37.9,1200
+Nigeria,West,1951,33,38.4,1262
+Nigeria,West,1952,34,39,1323
+Nigeria,West,1953,34,39.7,1325
+Nigeria,West,1954,34,40.4,1382
+Nigeria,West,1955,35,41.1,1379
+Nigeria,West,1956,35,41.8,1309
+Nigeria,West,1957,36,42.6,1323
+Nigeria,West,1958,36,43.4,1270
+Nigeria,West,1959,37,44.3,1288
+Nigeria,West,1960,37,45.1,1307
+Nigeria,West,1961,37,46.1,1313
+Nigeria,West,1962,38,47,1349
+Nigeria,West,1963,38,48,1433
+Nigeria,West,1964,39,49.1,1451
+Nigeria,West,1965,39,50.1,1505
+Nigeria,West,1966,39,51.2,1414
+Nigeria,West,1967,40,52.3,1160
+Nigeria,West,1968,40,53.5,1114
+Nigeria,West,1969,41,54.7,1372
+Nigeria,West,1970,41,56,1744
+Nigeria,West,1971,41,57.3,1894
+Nigeria,West,1972,42,58.7,1908
+Nigeria,West,1973,42,60.1,2012
+Nigeria,West,1974,43,61.7,2179
+Nigeria,West,1975,43,63.4,2051
+Nigeria,West,1976,44,65.2,2208
+Nigeria,West,1977,44,67.2,2220
+Nigeria,West,1978,45,69.3,2028
+Nigeria,West,1979,45,71.4,2104
+Nigeria,West,1980,45,73.4,2080
+Nigeria,West,1981,46,75.4,1855
+Nigeria,West,1982,46,77.4,1784
+Nigeria,West,1983,46,79.4,1631
+Nigeria,West,1984,46,81.4,1527
+Nigeria,West,1985,46,83.6,1621
+Nigeria,West,1986,46,85.8,1610
+Nigeria,West,1987,46,88,1556
+Nigeria,West,1988,46,90.4,1667
+Nigeria,West,1989,46,92.8,1729
+Nigeria,West,1990,46,95.2,1773
+Nigeria,West,1991,46,97.7,1759
+Nigeria,West,1992,46,100.2,1794
+Nigeria,West,1993,46,102.7,1818
+Nigeria,West,1994,46,105.3,1820
+Nigeria,West,1995,46,107.9,1851
+Nigeria,West,1996,46,110.7,1924
+Nigeria,West,1997,46,113.5,1977
+Nigeria,West,1998,46,116.3,2026
+Nigeria,West,1999,46,119.3,2035
+Nigeria,West,2000,46,122.3,2145
+Nigeria,West,2001,47,125.4,2283
+Nigeria,West,2002,47,128.6,2609
+Nigeria,West,2003,47,131.9,2848
+Nigeria,West,2004,48,135.3,3137
+Nigeria,West,2005,48,138.9,3348
+Nigeria,West,2006,49,142.5,3565
+Nigeria,West,2007,49,146.3,3817
+Nigeria,West,2008,50,150.3,4084
+Nigeria,West,2009,50,154.3,4416
+Nigeria,West,2010,51,158.5,4905
+Nigeria,West,2011,51,162.8,5136
+Nigeria,West,2012,52,167.2,5223
+Nigeria,West,2013,52,171.8,5370
+Nigeria,West,2014,53,176.4,5569
+Nigeria,West,2015,53,181.1,5578
+Nigeria,West,2016,54,186,5360
+Nigeria,West,2017,54,190.9,5271
+Nigeria,West,2018,54,195.9,5238
+South Africa,South,1950,44,13.6,4041
+South Africa,South,1951,44,13.9,4130
+South Africa,South,1952,45,14.2,4175
+South Africa,South,1953,45,14.5,4264
+South Africa,South,1954,46,14.9,4404
+South Africa,South,1955,46,15.2,4511
+South Africa,South,1956,47,15.6,4645
+South Africa,South,1957,47,15.9,4704
+South Africa,South,1958,48,16.3,4685
+South Africa,South,1959,48,16.7,4774
+South Africa,South,1960,48,17.1,4847
+South Africa,South,1961,49,17.5,4929
+South Africa,South,1962,49,18,5067
+South Africa,South,1963,50,18.4,5294
+South Africa,South,1964,50,18.9,5499
+South Africa,South,1965,50,19.4,5673
+South Africa,South,1966,51,19.9,5762
+South Africa,South,1967,51,20.4,5993
+South Africa,South,1968,52,20.9,6087
+South Africa,South,1969,52,21.5,6290
+South Africa,South,1970,53,22.1,6448
+South Africa,South,1971,53,22.7,6591
+South Africa,South,1972,54,23.3,6550
+South Africa,South,1973,54,23.9,6655
+South Africa,South,1974,55,24.6,6853
+South Africa,South,1975,55,25.2,6808
+South Africa,South,1976,56,25.8,6802
+South Africa,South,1977,57,26.5,6623
+South Africa,South,1978,57,27.1,6653
+South Africa,South,1979,58,27.8,6746
+South Africa,South,1980,58,28.6,6998
+South Africa,South,1981,59,29.3,7141
+South Africa,South,1982,59,30.2,6891
+South Africa,South,1983,60,31,6554
+South Africa,South,1984,60,31.8,6672
+South Africa,South,1985,61,32.7,6385
+South Africa,South,1986,62,33.5,6236
+South Africa,South,1987,62,34.3,6212
+South Africa,South,1988,63,35.1,6319
+South Africa,South,1989,63,35.9,6306
+South Africa,South,1990,63,36.8,6111
+South Africa,South,1991,63,37.7,6035
+South Africa,South,1992,63,38.7,5902
+South Africa,South,1993,63,39.6,5966
+South Africa,South,1994,62,40.6,6173
+South Africa,South,1995,62,41.4,6406
+South Africa,South,1996,61,42.2,6726
+South Africa,South,1997,59,43,6950
+South Africa,South,1998,58,43.7,7024
+South Africa,South,1999,57,44.3,7234
+South Africa,South,2000,56,45,7583
+South Africa,South,2001,55,45.6,7840
+South Africa,South,2002,54,46.2,8171
+South Africa,South,2003,54,46.7,8451
+South Africa,South,2004,53,47.3,8878
+South Africa,South,2005,53,47.9,9394
+South Africa,South,2006,54,48.5,9978
+South Africa,South,2007,54,49.1,10576
+South Africa,South,2008,55,49.8,10977
+South Africa,South,2009,56,50.5,10873
+South Africa,South,2010,58,51.2,11319
+South Africa,South,2011,59,52,11838
+South Africa,South,2012,60,52.8,11992
+South Africa,South,2013,61,53.7,12171
+South Africa,South,2014,62,54.5,12242
+South Africa,South,2015,63,55.4,12246
+South Africa,South,2016,63,56.2,12139
+South Africa,South,2017,64,57,12189
+South Africa,South,2018,64,57.8,12166
